@@ -1,0 +1,9 @@
+version: "3"
+services:
+  nginx:
+    build:
+      context: ./docker/nginx
+    volumes:
+      - ./src:/var/www/html/
+    restart: always
+    ports: ["80:80", "443:443"]
