@@ -1,0 +1,5 @@
+@CHARSET "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c:400,700&display=swap&subset=japanese');
+body {
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+}
