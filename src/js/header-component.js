@@ -1,5 +1,5 @@
 export default {
-  template: `<div class="h-[500px] w-full bg-[linear-gradient(90deg,_rgb(253,244,180)_0%,_rgb(253,244,180)_45%,_transparent_45%,_transparent_70%,_white_70%,_white_100%),_linear-gradient(37deg,_rgb(253,244,180)_63%,_white_63.1%)] bg-no-repeat bg-[length:100%_100%]">
+  template: `<div class="h-auto w-full bg-[linear-gradient(90deg,_rgb(253,244,180)_0%,_rgb(253,244,180)_30%,_transparent_30%,_transparent_70%,_white_70%,_white_100%),_linear-gradient(37deg,_rgb(253,244,180)_50%,_white_50.1%)] bg-no-repeat bg-[length:100%_100%]">
   <nav class="max-w-[85rem] w-full mx-auto px-4 pt-4 md:items-end md:justify-between" aria-label="Global">
   <div class="flex flex-col">
     <div class="md:px-5 flex items-center justify-between">
