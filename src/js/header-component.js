@@ -5,9 +5,9 @@ export default {
     <div class="md:px-5 flex items-center justify-between">
       <a class="text-[rgb(102,102,102)] hover:text-opacity-50 flex items-center gap-3" href="./index.html">
         <img src="/img/logo.png" alt="株式会社アイワ商事 ロゴ" class="h-24 w-auto" />
-        <div class="font-extrabold">
-          <div class="md:text-lg text-[3vw] whitespace-nowrap">断熱資材 ・ 産業資材の総合商社</div>
-          <div class="md:text-3xl text-[3vw] whitespace-nowraps">株式会社 アイワ商事</div>
+        <div class="font-extrabold text-[3vw] whitespace-nowrap">
+          <div class="md:text-lg">断熱資材・産業資材の総合商社</div>
+          <div class="md:text-3xl">株式会社 アイワ商事</div>
         </div>
       </a>
       <div class="basis-full grow md:block md:h-auto h-screen" v-bind:class="{'hidden': !showMenu, 'block': showMenu}">
