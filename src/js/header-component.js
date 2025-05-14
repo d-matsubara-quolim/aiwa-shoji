@@ -12,10 +12,10 @@ export default {
       </a>
       <div class="basis-full grow md:block md:h-auto h-screen" v-bind:class="{'hidden': !showMenu, 'block': showMenu}">
         <div class="flex flex-col mt-5 md:flex-row md:items-center md:justify-end md:px-10">
-          <a class="whitespace-nowrap inline-flex items-center justify-center px-4 py-2 text-xl font-bold whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./index.html">HOME</a>
-          <a class="inline-flex items-center justify-center px-4 py-2 text-xl font-bold whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./specialty.html">会社概要</a>
-          <a class="inline-flex items-center justify-center px-4 py-2 text-xl font-bold whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./doctor.html">取扱商品</a>
-          <a class="inline-flex items-center justify-center px-4 py-2 text-xl font-bold whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./floor.html">採用情報</a>
+          <a class="whitespace-nowrap inline-flex items-center justify-center px-4 py-2 text-base lg:text-xl font-bold whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./index.html">HOME</a>
+          <a class="inline-flex items-center justify-center px-4 py-2 text-base lg:text-xl font-bold whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./specialty.html">会社概要</a>
+          <a class="inline-flex items-center justify-center px-4 py-2 text-base lg:text-xl font-bold whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./doctor.html">取扱商品</a>
+          <a class="inline-flex items-center justify-center px-4 py-2 text-base lg:text-xl font-bold whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./floor.html">採用情報</a>
         </div>
       </div>
         <div class="md:hidden">
