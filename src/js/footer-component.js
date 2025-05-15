@@ -4,14 +4,14 @@ export default {
     <div class="flex md:flex-row flex-col w-full">
       <div class="flex flex-col md:flex-1 items-center">
         <img src="/img/logo.png" alt="株式会社アイワ商事 ロゴ" class="h-36 w-auto object-contain" />
-        <div class="font-extrabold text-[5vw] whitespace-nowrap">
+        <div class="text-[5vw] whitespace-nowrap">
           <p class="md:text-xl">断熱資材・産業資材の総合商社</p>
           <p class="md:text-3xl">株式会社 アイワ商事</p>
           <p class="md:text-sm">Aiwasyoji Trading Company.co.,Ltd</p>
         </div>
       </div>
       <div class="flex flex-col justify-center md:flex-1 p-5">
-        <div class="font-extrabold text-[5vw]">
+        <div class="text-[5vw]">
           <p class="md:text-lg">アクセス</p>
           <p class="md:text-lg">
             <span class="block lg:inline">〒857-0852</span>

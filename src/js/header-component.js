@@ -5,21 +5,21 @@ export default {
     <div class="md:px-5 flex items-center justify-between">
       <a class="text-[rgb(102,102,102)] hover:text-opacity-50 flex items-center gap-3" href="./home.html">
         <img src="/img/logo.png" alt="株式会社アイワ商事 ロゴ" class="h-24 w-auto" />
-        <div class="font-extrabold text-[3vw] whitespace-nowrap">
+        <div class="text-[3vw] whitespace-nowrap">
           <div class="md:text-lg">断熱資材・産業資材の総合商社</div>
           <div class="md:text-3xl">株式会社 アイワ商事</div>
         </div>
       </a>
       <div class="basis-full grow md:block md:h-auto h-screen" v-bind:class="{'hidden': !showMenu, 'block': showMenu}">
         <div class="flex flex-col mt-5 md:flex-row md:items-center md:justify-end md:px-10">
-          <a class="whitespace-nowrap inline-flex items-center justify-center px-4 py-2 text-base lg:text-xl font-bold whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./home.html">HOME</a>
-          <a class="inline-flex items-center justify-center px-4 py-2 text-base lg:text-xl font-bold whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./specialty.html">会社概要</a>
-          <a class="inline-flex items-center justify-center px-4 py-2 text-base lg:text-xl font-bold whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./doctor.html">取扱商品</a>
-          <a class="inline-flex items-center justify-center px-4 py-2 text-base lg:text-xl font-bold whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./floor.html">採用情報</a>
+          <a class="whitespace-nowrap inline-flex items-center justify-center px-4 py-2 text-base lg:text-xl whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./home.html">HOME</a>
+          <a class="inline-flex items-center justify-center px-4 py-2 text-base lg:text-xl whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./specialty.html">会社概要</a>
+          <a class="inline-flex items-center justify-center px-4 py-2 text-base lg:text-xl whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./doctor.html">取扱商品</a>
+          <a class="inline-flex items-center justify-center px-4 py-2 text-base lg:text-xl whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./floor.html">採用情報</a>
         </div>
       </div>
         <div class="md:hidden">
-        <button type="button" class="hs-collapse-toggle p-2 inline-flex justify-center items-center gap-2 rounded-md border font-medium bg-white text-gray-700 shadow-sm align-middle hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-white focus:ring-blue-600 transition-all text-sm " data-hs-collapse="#navbar-with-collapse" aria-controls="navbar-with-collapse" aria-label="Toggle navigation" v-on:click="toggleNavbar()">
+        <button type="button" class="hs-collapse-toggle p-2 inline-flex justify-center items-center gap-2 rounded-md border bg-white text-gray-700 shadow-sm align-middle hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-white focus:ring-blue-600 transition-all text-sm " data-hs-collapse="#navbar-with-collapse" aria-controls="navbar-with-collapse" aria-label="Toggle navigation" v-on:click="toggleNavbar()">
           <svg class="hs-collapse-open:hidden w-4 h-4" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
             <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
           </svg>
