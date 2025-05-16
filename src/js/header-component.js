@@ -3,7 +3,7 @@ export default {
   <nav class="max-w-[85rem] w-full mx-auto px-4 pt-4 md:items-end md:justify-between" aria-label="Global">
   <div class="flex flex-col">
     <div class="md:px-5 flex items-center justify-between">
-      <a class="text-[rgb(102,102,102)] hover:text-opacity-50 flex items-center gap-3" href="./home.html">
+      <a class="text-[rgb(102,102,102)] hover:text-opacity-50 flex items-center gap-3" href="./index.html">
         <img src="/img/logo.png" alt="株式会社アイワ商事 ロゴ" class="h-24 w-auto" />
         <div class="text-[3vw] whitespace-nowrap">
           <div class="md:text-lg">断熱資材・産業資材の総合商社</div>
@@ -12,7 +12,7 @@ export default {
       </a>
       <div class="basis-full grow md:block md:h-auto h-screen" v-bind:class="{'hidden': !showMenu, 'block': showMenu}">
         <div class="flex flex-col mt-5 md:flex-row md:items-center md:justify-end md:px-10">
-          <a class="whitespace-nowrap inline-flex items-center justify-center px-4 py-2 text-base lg:text-xl whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./home.html">HOME</a>
+          <a class="whitespace-nowrap inline-flex items-center justify-center px-4 py-2 text-base lg:text-xl whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./index.html">HOME</a>
           <a class="inline-flex items-center justify-center px-4 py-2 text-base lg:text-xl whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./specialty.html">会社概要</a>
           <a class="inline-flex items-center justify-center px-4 py-2 text-base lg:text-xl whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./doctor.html">取扱商品</a>
           <a class="inline-flex items-center justify-center px-4 py-2 text-base lg:text-xl whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./floor.html">採用情報</a>
