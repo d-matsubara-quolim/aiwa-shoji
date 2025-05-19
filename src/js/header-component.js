@@ -2,12 +2,13 @@ export default {
   template: `<div class="h-auto w-full bg-[linear-gradient(90deg,_rgb(253,244,180)_0%,_rgb(253,244,180)_30%,_transparent_30%,_transparent_70%,_white_70%,_white_100%),_linear-gradient(37deg,_rgb(253,244,180)_50%,_white_50.1%)] bg-no-repeat bg-[length:100%_100%]">
   <nav class="max-w-[85rem] w-full mx-auto px-4 pt-4 md:items-end md:justify-between" aria-label="Global">
   <div class="flex flex-col">
-    <div class="md:px-5 flex items-center justify-between">
+    <div class="md:px-5 py-5 flex items-center justify-between">
       <a class="text-[rgb(102,102,102)] hover:text-opacity-50 flex items-center gap-3" href="./index.html">
         <img src="/img/logo.png" alt="株式会社アイワ商事 ロゴ" class="h-24 w-auto" />
         <div class="text-[3vw] whitespace-nowrap">
           <div class="md:text-lg">断熱資材・産業資材の総合商社</div>
           <div class="md:text-3xl">株式会社 アイワ商事</div>
+          <div class="md:text-sm">Aiwasyoji Trading Company.co.,Ltd</div>
         </div>
       </a>
       <div class="basis-full grow md:block md:h-auto h-screen" v-bind:class="{'hidden': !showMenu, 'block': showMenu}">
