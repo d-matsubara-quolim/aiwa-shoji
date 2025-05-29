@@ -15,7 +15,7 @@ export default {
         <div class="flex flex-col mt-5 md:flex-row md:items-center md:justify-end md:px-10">
           <a class="whitespace-nowrap inline-flex items-center justify-center px-4 py-2 text-base lg:text-xl whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./index.html">HOME</a>
           <a class="inline-flex items-center justify-center px-4 py-2 text-base lg:text-xl whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./company.html">会社概要</a>
-          <a class="inline-flex items-center justify-center px-4 py-2 text-base lg:text-xl whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./doctor.html">取扱商品</a>
+          <a class="inline-flex items-center justify-center px-4 py-2 text-base lg:text-xl whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./product.html">取扱商品</a>
           <a class="inline-flex items-center justify-center px-4 py-2 text-base lg:text-xl whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./recruit.html">採用情報</a>
         </div>
       </div>
