@@ -7,7 +7,7 @@ export default {
         <img src="/img/logo.png" alt="株式会社アイワ商事 ロゴ" class="h-24 w-auto" />
         <div class="text-[3vw] whitespace-nowrap">
           <div class="md:text-lg">断熱資材・産業資材の総合商社</div>
-          <div class="md:text-3xl">株式会社 アイワ商事</div>
+          <div class="text-xl md:text-3xl">株式会社 アイワ商事</div>
           <div class="md:text-sm">Aiwasyoji Trading Company.co.,Ltd</div>
         </div>
       </a>
