@@ -10,7 +10,7 @@ export default {
           <p class="md:text-sm">Aiwasyoji Trading Company.co.,Ltd</p>
         </div>
       </div>
-      <div class="flex flex-col justify-center md:flex-1 p-5">
+      <div class="flex flex-col justify-center md:flex-1 p-1 py-5 md:p-5">
         <div class="text-[5vw]">
           <p class="md:text-lg">アクセス</p>
           <p class="md:text-lg">
