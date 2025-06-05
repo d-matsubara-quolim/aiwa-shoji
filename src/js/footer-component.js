@@ -3,7 +3,7 @@ export default {
   <div class="basis-full flex items-center md:px-10 p-5">
     <div class="flex md:flex-row flex-col w-full">
       <div class="flex flex-col md:flex-1 items-center">
-        <img src="/img/logo.png" alt="株式会社アイワ商事 ロゴ" class="h-36 w-auto object-contain" />
+        <img src="./img/logo.png" alt="株式会社アイワ商事 ロゴ" class="h-36 w-auto object-contain" />
         <div class="text-[5vw] whitespace-nowrap">
           <p class="md:text-xl">断熱資材・産業資材の総合商社</p>
           <p class="md:text-3xl">株式会社 アイワ商事</p>

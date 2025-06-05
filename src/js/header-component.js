@@ -4,7 +4,7 @@ export default {
   <div class="flex flex-col">
     <div class="py-5 flex items-center justify-between">
       <a class="text-[rgb(102,102,102)] hover:text-opacity-50 flex items-center gap-3" href="./index.html">
-        <img src="/img/logo.png" alt="株式会社アイワ商事 ロゴ" class="h-24 w-auto" />
+        <img src="./img/logo.png" alt="株式会社アイワ商事 ロゴ" class="h-24 w-auto" />
         <div class="text-[3vw] whitespace-nowrap">
           <div class="md:text-lg">断熱資材・産業資材の総合商社</div>
           <div class="text-xl md:text-3xl">株式会社 アイワ商事</div>
