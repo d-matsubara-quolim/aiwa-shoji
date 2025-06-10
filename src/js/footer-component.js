@@ -26,5 +26,8 @@ export default {
       </div>
     </div>  
   </div>
+  <div class="w-full text-center py-2">
+    <p>© 2025 Aiwasyoji co.,ltd All Rights Reserved.</p>
+  </div>
 </div>`
 }
