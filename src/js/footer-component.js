@@ -12,13 +12,14 @@ export default {
       </div>
       <div class="flex flex-col justify-center md:flex-1 p-1 py-5 md:p-5">
         <div class="text-[5vw]">
-          <p class="md:text-lg">アクセス</p>
+          <p class="md:text-lg">▷アクセス</p>
           <p class="md:text-lg">
             <span class="block lg:inline">〒857-0852</span>
             <span class="block lg:inline">長崎県佐世保市干尽町3-7</span>
           </p>
           <p class="md:text-lg">TEL 0956-33-6301</p>
           <p class="md:text-lg">FAX 0956-33-7312</p>
+          <a href="./privacy.html" class="block md:text-lg pt-6">▷プライバシーポリシー</a>
         </div>
       </div>
       <div class="items-center md:flex-1">
