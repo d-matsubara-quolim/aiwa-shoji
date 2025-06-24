@@ -16,7 +16,7 @@ export default {
           <a class="whitespace-nowrap inline-flex items-center justify-center px-4 py-2 text-base lg:text-xl whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./index.html">HOME</a>
           <a class="inline-flex items-center justify-center px-4 py-2 text-base lg:text-xl whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./company.html">会社概要</a>
           <a class="inline-flex items-center justify-center px-4 py-2 text-base lg:text-xl whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./product.html">取扱商品</a>
-          <a class="inline-flex items-center justify-center px-4 py-2 text-base lg:text-xl whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./recruit.html">採用情報</a>
+          <a class="inline-flex items-center justify-center px-4 py-2 text-base lg:text-xl whitespace-no-wrap hover:bg-[rgb(243,234,150)] focus:outline-none focus:ring-2 focus:ring-offset-2 " href="./recruit_info.html">採用情報</a>
         </div>
       </div>
         <div class="md:hidden">
